@@ -1,0 +1,7 @@
+# Ignorar archivos de configuración personal
+.env
+contraseñas.txt
+
+# Ignorar carpetas de basura del sistema
+.vscode/
+node_modules/
